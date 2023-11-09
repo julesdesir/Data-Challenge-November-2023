@@ -1,0 +1,100 @@
+Toyota Sequoia SUV 2012
+Toyota Camry Sedan 2012
+Toyota Corolla Sedan 2012
+Volkswagen Beetle Hatchback 2012
+Volvo C30 Hatchback 2012
+Volvo 240 Sedan 1993
+Volvo XC90 SUV 2007
+Audi S5 Convertible 2012
+Audi S5 Coupe 2012
+Audi S4 Sedan 2007
+Audi TT RS Coupe 2012
+BMW ActiveHybrid 5 Sedan 2012
+BMW 1 Series Convertible 2012
+BMW 1 Series Coupe 2012
+BMW 3 Series Wagon 2012
+Acura TL Type-S 2008
+BMW X6 SUV 2012
+AM General Hummer SUV 2000
+BMW M5 Sedan 2010
+Bentley Continental GT Coupe 2007
+Buick Regal GS 2012
+Buick Rainier SUV 2007
+Cadillac SRX SUV 2012
+Chevrolet Corvette ZR1 2012
+Chevrolet Camaro Convertible 2012
+Chevrolet HHR SS 2010
+Acura ZDX Hatchback 2012
+Chevrolet Cobalt SS 2010
+Chevrolet TrailBlazer SS 2009
+Chevrolet Silverado 1500 Classic Extended Cab 2007
+Chevrolet Express Van 2007
+Aston Martin V8 Vantage Convertible 2012
+Chevrolet Malibu Sedan 2007
+Chevrolet Silverado 1500 Extended Cab 2012
+Chrysler 300 SRT-8 2010
+Chrysler Crossfire Convertible 2008
+Chrysler PT Cruiser Convertible 2008
+Aston Martin V8 Vantage Coupe 2012
+Dodge Caliber Wagon 2012
+Dodge Caliber Wagon 2007
+Dodge Magnum Wagon 2008
+Aston Martin Virage Convertible 2012
+Dodge Durango SUV 2007
+Dodge Charger Sedan 2012
+Eagle Talon Hatchback 1998
+FIAT 500 Convertible 2012
+Aston Martin Virage Coupe 2012
+Ferrari 458 Italia Convertible 2012
+Ferrari 458 Italia Coupe 2012
+Fisker Karma Sedan 2012
+Ford F-450 Super Duty Crew Cab 2012
+Ford Mustang Convertible 2007
+Ford Freestar Minivan 2007
+Ford Expedition EL SUV 2009
+Ford Ranger SuperCab 2011
+Ford GT Coupe 2006
+Ford F-150 Regular Cab 2007
+Ford Focus Sedan 2007
+Ford E-Series Wagon Van 2012
+Ford Fiesta Sedan 2012
+Audi A5 Coupe 2012
+GMC Yukon Hybrid SUV 2012
+HUMMER H3T Crew Cab 2010
+Honda Odyssey Minivan 2012
+Audi TTS Coupe 2012
+Honda Accord Coupe 2012
+Hyundai Veracruz SUV 2012
+Hyundai Sonata Hybrid Sedan 2012
+Hyundai Genesis Sedan 2012
+Hyundai Sonata Sedan 2012
+Hyundai Azera Sedan 2012
+Infiniti G Coupe IPL 2012
+Infiniti QX56 SUV 2011
+Jaguar XK XKR 2012
+Jeep Wrangler SUV 2012
+Jeep Liberty SUV 2012
+Jeep Grand Cherokee SUV 2012
+Audi V8 Sedan 1994
+Lamborghini Reventon Coupe 2008
+Lamborghini Aventador Coupe 2012
+Lamborghini Gallardo LP 570-4 Superleggera 2012
+Land Rover LR2 SUV 2012
+Maybach Landaulet Convertible 2012
+Audi 100 Sedan 1994
+Mercedes-Benz 300-Class Convertible 1993
+Mercedes-Benz SL-Class Coupe 2009
+Mercedes-Benz Sprinter Van 2012
+Mitsubishi Lancer Sedan 2012
+Nissan Leaf Hatchback 2012
+Audi 100 Wagon 1994
+Plymouth Neon Coupe 1999
+Porsche Panamera Sedan 2012
+Rolls-Royce Phantom Drophead Coupe Convertible 2012
+Rolls-Royce Ghost Sedan 2012
+Rolls-Royce Phantom Sedan 2012
+Scion xD Hatchback 2012
+Spyker C8 Coupe 2009
+Suzuki Aerio Sedan 2007
+Suzuki Kizashi Sedan 2012
+Suzuki SX4 Sedan 2012
